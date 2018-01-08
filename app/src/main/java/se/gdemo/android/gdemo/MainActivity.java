@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void demoConflict() {
-        System.out.println("Hello, init line.");
+        System.out.println("Hello, awkward teaching time!");
     }
 }
